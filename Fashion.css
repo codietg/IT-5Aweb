@@ -1,0 +1,7 @@
+#card{
+    flex: display;
+    border: 2px solid crimson;
+    height: 100px;
+    width: 130px;
+    text-align: center;
+}
